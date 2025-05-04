@@ -2,11 +2,11 @@
 
 I'm a Software Engineer passionate about decentralized applications and blockchain technologies.
 
-🏠 I’m currently working remotely from Spain as a Senior Full Stack developer.
-
-🏢 I’m working on PERN and MERN projects as well as dApps and blockchain related products.
-
-📚 I’m sharpening my skills in Solidity, Rust and ICP.
+* 🏠 Currently working remotely from Spain as a Senior Full Stack Developer.
+* 🏢 Mostly developing on PERN and MERN projects as well as dApps and blockchain related products.
+* 📚 Actively harpening my skills in Solidity, Rust and ICP.
+* ✨ My favorite created projects: https://cryptomotoapp.com, https://flyblox.com
+* ⚙️ Daily using `.sol`, `.rs`, `.ts`, `.js`, `.tsx`, `.jsx`, `.php`, `hardhat`, `node.js`...
 
 <!--
 **tlapata/tlapata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
