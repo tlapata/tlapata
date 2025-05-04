@@ -3,7 +3,9 @@
 I'm a Software Engineer passionate about decentralized applications and blockchain technologies.
 
 🏠 I’m currently working remotely from Spain as a Senior Full Stack developer.
+
 🏢 I’m working on PERN and MERN projects as well as dApps and blockchain related products.
+
 📚 I’m sharpening my skills in Solidity, Rust and ICP.
 
 <!--
