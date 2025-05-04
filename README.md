@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a Software Engineer passionate about decentralized applications and blockchain technologies.
+
+🏠 I’m currently working remotely from Spain as a Senior Full Stack developer.
+🏢 I’m working on PERN and MERN projects as well as dApps and blockchain related products.
+📚 I’m sharpening my skills in Solidity, Rust and ICP.
+
 <!--
 **tlapata/tlapata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
