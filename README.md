@@ -2,7 +2,7 @@
 
 I'm a Software Engineer passionate about decentralized applications and blockchain technologies.
 
-* 🏠 Currently working remotely from Spain as a Full Stack Blockchain & Decentralized Systems Engineer.
+* 🏠 Currently working remotely from Spain as a Full Stack & Decentralized Systems Engineer.
 * 🏢 Mostly working on PERN and MERN projects, as well as dApps and blockchain-related products.
 * 📚 Actively sharpening my skills in Solidity, Rust, ICP, Distributed Systems & Cryptography.
 * 🌱 My favorite created projects are https://cryptomoto.org and https://flyblox.com
