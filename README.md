@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm a Software Engineer passionate about Distributed & Decentralized Systems | Scalability & Low-Latency.
+I'm a Senior Backend Architect passionate about Distributed & Decentralized Systems | Scalable API, Low-Latency & Data Systems.
 
-* 🏠 Currently working remotely from Spain as a Principal Engineer (Rust), designing and maintaining distributed backend systems.
+* 🏠 Currently working remotely from Spain as a Principal Engineer, designing and maintaining distributed backend systems.
 * 🏢 Experience across blockchain protocols, dApps, and scalable backend services (including PERN/MERN-based platforms).
 * 📚 Actively sharpening my skills in Distributed Systems, Cryptography, and Internet Computer Protocol (ICP).
 * ⚙️ Daily using `.rs`, `.sol`, `.ts`, `.js`, `.tsx`, `.jsx`, `.php`, `hardhat`, `node.js`...
